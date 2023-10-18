@@ -19,6 +19,7 @@
 
 - 📫 How to reach me **saadmahi.dev@gmail.com**
 
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=saadmahi&" alt="saadmahi" /></p>  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/saadmahi/" target="blank"><img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-logo-png-transparent.png" alt="https://www.linkedin.com/in/saad-mahimkar-3810781b6" height="30" width="120" /></a>
@@ -36,4 +37,4 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saadmahi&show_icons=true&locale=en" alt="saadmahi" /></p> --!>
 
-<!-- <p ><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=saadmahi&" alt="saadmahi" /></p>  --!>
+ 
