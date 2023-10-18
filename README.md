@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently trying to gain a good command over **Javascript** and **React**.
 
-- 💲 I can take any **Web-deveopment projects** as per client requirement
+- 💵 I can take any **Web-deveopment projects** as per client requirement
 
 - 👨‍💻 All of my projects are available at [https://github.com/SaadMahi?tab=repositories](https://github.com/SaadMahi?tab=repositories)
 
