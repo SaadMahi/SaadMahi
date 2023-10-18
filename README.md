@@ -7,15 +7,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saadmahi&label=Profile%20views&color=0e75b6&style=flat" alt="saadmahi" /> </p>
 
-- 🔭 I’m currently working on **Javascript**
+- 🔭 I’m currently working on **React**
 
 - 🌱 I’m currently trying to gain a good command over **Javascript** and **React**.
 
-- 👯 I’m looking to collaborate on **Front-End projects**
+- 💲 I can take any **Web-deveopment projects** as per client requirement
 
 - 👨‍💻 All of my projects are available at [https://github.com/SaadMahi?tab=repositories](https://github.com/SaadMahi?tab=repositories)
 
-- 💬 Ask me about **Html**, **Css** and **Javascript** etc.
+- 💬 Ask me about **Html**, **Css**, **Javascript** and **React** etc.
 
 - 📫 How to reach me **saadmahi.dev@gmail.com**
 
@@ -32,8 +32,8 @@
   
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saadmahi&show_icons=true&locale=en&layout=compact" alt="saadmahi" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saadmahi&show_icons=true&locale=en&layout=compact" alt="saadmahi" /></p> --!>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saadmahi&show_icons=true&locale=en" alt="saadmahi" /></p>
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saadmahi&show_icons=true&locale=en" alt="saadmahi" /></p> 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saadmahi&" alt="saadmahi" /></p>
+<p ><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=saadmahi&" alt="saadmahi" /></p>
