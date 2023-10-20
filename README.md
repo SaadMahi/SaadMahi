@@ -22,9 +22,7 @@
 
 - 📫 How to reach me **saadmahi.dev@gmail.com**
 
- 
  <br/>
-
 
 <div align="center"> 
   <a href="mailto:saadmahi.dev@gmail.com">
@@ -43,7 +41,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,vercel" />
     <img src="https://skillicons.dev/icons?i=javascript,typescript,firebase,nextjs" /><br>
 </div>
 
@@ -55,14 +53,12 @@
  <img width=390 src="https://streak-stats.demolab.com/?user=saadmahi&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
  </div>
 
-
 <br/><br/>
 <hr/>
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
-
 
 
 <!-- <h3 align="left">Languages and Tools:</h3>
@@ -72,4 +68,3 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saadmahi&show_icons=true&locale=en&layout=compact" alt="saadmahi" /></p> --!>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saadmahi&show_icons=true&locale=en" alt="saadmahi" /></p> --!>
 <!-- <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=saadmahi&" alt="saadmahi" /></p> --!>  
- 
